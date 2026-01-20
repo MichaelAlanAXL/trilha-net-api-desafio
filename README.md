@@ -205,4 +205,4 @@ Este projeto atende completamente aos requisitos do desafio da DIO. Futuramente,
 
 ---
 
-**Desenvolvido por [Seu Nome]** como parte do desafio DIO - Trilha .NET 2026
+**Desenvolvido por Michael Alan** como parte do desafio DIO - Trilha .NET 2026
